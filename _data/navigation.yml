@@ -20,8 +20,8 @@ main:
   - title: "Open Source"
     url: /cv/ 
     
-  #- title: "Resume"
-    #url: /resume/
+  - title: "Resume"
+    url: /resume/SosaNicole_Resume.pdf/
     
  # - title: "Guide"
    # url: /markdown/
