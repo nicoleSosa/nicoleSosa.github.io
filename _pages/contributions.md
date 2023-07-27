@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: archive
 title: My Open Source Contributions
 author_profile: true
 permalink: /open-source/
