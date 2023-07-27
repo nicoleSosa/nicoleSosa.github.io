@@ -1,6 +1,7 @@
 ---
 layout: page
 title: My Open Source Contributions
+author_profile: true
 permalink: /open-source/
 ---
 
