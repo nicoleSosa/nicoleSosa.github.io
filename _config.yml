@@ -49,11 +49,6 @@ staticman:
 atom_feed:
   path                   : # blank (default) uses feed.xml
 
-# Theme Settings
-theme: minimal-mistakes-jekyll
-
-# Skin Settings (Optional - To customize color scheme)
-skin: "dark"
 
 # SEO Related
 google_site_verification :
