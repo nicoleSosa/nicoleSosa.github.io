@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "About"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -10,8 +10,6 @@ redirect_from:
 
 
 
-About
-======
 Hi! I'm Nicole, and I'm currently a senior at NYU CAS, pursuing a major in Computer Science with a minor in Psychology. However, my college adventure began at NYU Tandon School of Engineering, where I initially studied Biomolecular Science and Chemical Engineering. Life has a funny way of leading us to unexpected paths, and that's exactly what happened to me!
 
 As I explored diverse experiences and coursework during college, I discovered my true passion lies in understanding human behavior and harnessing technology for positive social impact. I genuinely believe that technology can be a force for good, transforming lives and making a difference in society. 
