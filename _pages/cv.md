@@ -11,6 +11,10 @@ redirect_from:
 
 
 
+
+
+
+
 Oppia 
 ======
 Oppia is a free and open-source online learning platform that aims to improve access to quality education worldwide for everyone. Allows users to create and share interactive educational content and uses a conversational approach to learning. This approach provides learners immediate feedback, making the learning experience more engaging and effective. I was fortunate to have contributed to this project with my following team members Rufaida Khan, Seoeun Hong, and Leah Durrettt. 
@@ -29,5 +33,14 @@ tHIS ISNA LIST OF ALL OUR CONTRIBUTIONS TO THIS PROJECT:
 
 
 
-Indivudal Contributions 
+These is a list of all the open source projects I have contributed to: 
 ======
+
+- Oppia
+- Open StreetMap
+- wikipedia
+- codinasion
+- blah blah 
+- blah blah 
+- Blah 
+- ablha  
