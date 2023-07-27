@@ -1,10 +1,10 @@
 ---
 layout: archive
 title: "Open Source Contributions"
-permalink: /open-source/
+permalink: /cv/
 author_profile: true
 redirect_from:
-  - /oppia
+  - /resume
 ---
 
 {% include base_path %}
