@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "Open Source Contributions"
-permalink: /cv/
+permalink: /open/
 author_profile: true
 redirect_from:
   - /resume
