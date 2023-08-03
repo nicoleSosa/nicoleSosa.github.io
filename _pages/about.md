@@ -16,7 +16,7 @@ As I explored diverse experiences and coursework during college, I discovered my
 
 Since then, I've ventured into different domains, including web development, design, data science, software engineering, and user experience. Each exploration provided valuable insights and honed my skills. It was during these diverse experiences that I found myself leaning towards software engineering and data analysis fields. Currently, I am seeking a full-time software engineer or data analyst job. 
 
-This website serves as a platform to showcase the various projects I've worked on, my contributions to open-source, and tech insights I'll be sharing through my blog posts. Thank you for visiting my website and being part of my journey in tech. Let's create a better future through technology together!
+This website serves as a platform to showcase the various projects I've worked on and my contributions to open source. Thank you for visiting my website and being part of my journey in tech. Let's create a better future through technology together!
 
 
 
