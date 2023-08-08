@@ -1,6 +1,6 @@
 ---
 title: "Drinking Buddies Project"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/dbimg.png' width='500' height='500'>"
+excerpt: "Short description of portfolio item number 1<br/><img src='/images/dbimg.png' width='500' height='400'>"
 collection: portfolio
 ---
 
