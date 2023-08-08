@@ -1,6 +1,6 @@
 ---
 title: "Book Haven"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/bookhaven1.png' width='450' height='300'>"
+excerpt: "Short description of portfolio item number 1<br/><img src='/images/bookhaven1.png' width='450' height='400'>"
 collection: portfolio
 ---
 
