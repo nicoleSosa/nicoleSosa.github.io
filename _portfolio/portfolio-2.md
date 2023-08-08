@@ -1,6 +1,6 @@
 ---
 title: "Data Analysis Project"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/data_project.png' width='450' height='300'>"
+excerpt: "Short description of portfolio item number 1<br/><img src='/images/data_project.png' width='450' height='250'>"
 collection: portfolio
 ---
 
