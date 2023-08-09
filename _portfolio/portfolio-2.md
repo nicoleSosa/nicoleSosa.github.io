@@ -1,6 +1,6 @@
 ---
-title: "Data Analysis Project"
-excerpt: "<br/><img src='/images/data_project.png' width='450' height='200'>"
+title: "Data Analysis Project: Exploring the Relationship Between Housing Conditions and Lead Exposure in Children across NYC"
+excerpt: "<img src='/images/data_project.png' width='450' height='200'>"
 collection: portfolio
 ---
 

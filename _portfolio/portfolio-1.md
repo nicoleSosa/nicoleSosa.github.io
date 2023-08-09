@@ -1,7 +1,7 @@
 ---
-title: "Drinking Buddies Project"
+title: "Drinking Buddies"
 excerpt: "
-<br/><img src='/images/dbimg.png' width='450' height='200'>"
+<img src='/images/dbimg.png' width='450' height='200'>"
 collection: portfolio
 ---
 
