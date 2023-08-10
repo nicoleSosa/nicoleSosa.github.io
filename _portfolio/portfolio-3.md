@@ -10,7 +10,7 @@ Book Haven is a platform that offers users a way to explore, track, and organize
 
 ## Why:
 
-As an avid user and enthusiast of Notion, I could have easily created a new page within that platform. However, I recognized the need for a distinct and dedicated space, separate from my work organization, where I could freely immerse myself in the world of books without any distractions. This led me to create a one-stop place where I can build a curated reading list, keeping track of titles I intend to explore.
+As an avid book reader and enthusiast of Notion, I could have easily created a new page within that platform. However, I recognized the need for a distinct and dedicated space, separate from my work organization, where I could freely immerse myself in the world of books without any distractions. This led me to create a one-stop place where I can build a curated reading list, keeping track of titles I intend to explore.
 
 ## Project Links:
 
