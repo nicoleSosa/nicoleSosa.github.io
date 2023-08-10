@@ -15,6 +15,11 @@ Drinking Buddies provides a one-stop place for users starting their alcohol jour
 
 I've witnessed friends and family embark on their alcohol journeys without the proper guidance, and I saw a need for a supportive platform that combines discovery and responsibility. This project is my commitment to providing a safe and enjoyable space for users to uncover their preferences, make informed choices, and embrace responsible drinking habits. It's about fostering a sense of community, sharing knowledge, and ensuring that everyone can raise their glasses with confidence, knowing they're equipped with the right information. 
 
+## Project Links:
+
+- [GitHub Repository](https://github.com/rufaida99-k/DrinkingBuddies-Proj)
+- [Deployed Site](https://rufaida99-k.github.io/DrinkingBuddies-Proj/#/) 
+
 ## Features: 
 
 - [Drink Disovery Quiz](https://rufaida99-k.github.io/DrinkingBuddies-Proj/#/quiz) 
